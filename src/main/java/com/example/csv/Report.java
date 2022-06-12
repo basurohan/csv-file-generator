@@ -1,8 +1,5 @@
 package com.example.csv;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class Report {
     private Integer storeNbr;
     private Integer tagId;
